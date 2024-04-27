@@ -2,6 +2,9 @@
 # JourneyMate
 
 JourneyMate is a travel app that helps you discover and explore popular destinations around the world. With JourneyMate, you can find information about various places, plan your trips, and explore new favorite destinations.
+![react3](https://github.com/fahad0samara/react_JourneyMate/assets/90055525/7af11fa6-18e3-4de6-a332-58c1f6d2d52b)
+
+
 
 ## Features
 
